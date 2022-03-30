@@ -1,4 +1,4 @@
-#React Portfolio Website Integrated With Sanity CMS
+# React Portfolio Website Integrated With Sanity CMS
 
 ## Project Details -
 
@@ -22,6 +22,7 @@ The file containe two parts -
 
 > For `frontend_react` just enter **`react start`** to run locally on port 3000
 
-> For `sanity_backend` run code **`sanity start`** > **Note: You must have sanity account and sanity client insatlled on your system**
+> For `sanity_backend` run code **`sanity start`**
+> **Note: You must have sanity account and sanity client insatlled on your system**
 
 Deployed on Netlify - [Visit Site](https://react-sanity-portfolio-app.netlify.app/)
