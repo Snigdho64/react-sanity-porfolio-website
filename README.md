@@ -26,3 +26,6 @@ The file containe two parts -
 > **Note: You must have sanity account and sanity client insatlled on your system**
 
 Deployed on Netlify - [Visit Site](https://react-sanity-portfolio-app.netlify.app/)
+<img width="960" alt="Portfolio_Web-1" src="https://user-images.githubusercontent.com/79567044/163699648-dfd3b208-1cba-4d23-ad32-72b9186afb05.png">
+<img width="960" alt="Portfolio_Web-2" src="https://user-images.githubusercontent.com/79567044/163699650-035a3d90-5eed-4553-a2ba-7695e00e5ceb.png">
+<img width="960" alt="Portfolio_Web-3" src="https://user-images.githubusercontent.com/79567044/163699656-70e47a60-527b-44a4-92c6-3cb2b0d93abb.png">
